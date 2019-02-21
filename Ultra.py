@@ -48,7 +48,7 @@ while True:
 	print ("Distance: %.1f cm" % distance)
 	time.sleep(1)
 
-	if distance < 6
+	if distance < 6:
 		time.sleep(2)
 		print("wait for glass to be filled")
 		time.sleep(2)
