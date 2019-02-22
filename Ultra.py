@@ -49,7 +49,7 @@ while True:
 	time.sleep(1)
 
 	if distance < 6:
-		time.sleep(2)
+		time.sleep(0.5)
 		print("wait for glass to be filled")
-		time.sleep(2)
+		time.sleep(0.5)
 		print("remove glass please")
